@@ -10,9 +10,11 @@ This project performs Exploratory Data Analysis (EDA) on iPhone sales data colle
 
 ## 📂 Dataset
 
-- Dataset Name: apple_products.csv
-- Source: Flipkart iPhone Sales Dataset
-- Format: CSV
+- **Dataset Name:** apple_products.csv
+- **Format:** CSV
+- **Source:** Publicly available Flipkart iPhone Sales dataset used for educational and data analysis purposes.
+
+> The dataset is included in this repository for learning and portfolio purposes.
 
 ---
 
@@ -48,9 +50,19 @@ This project performs Exploratory Data Analysis (EDA) on iPhone sales data colle
 
 ---
 
-## 📈 Visualizations
+## 📊 Visualizations
 
-Screenshots of the analysis graphs are available in the **images/** folder.
+### Top 10 Highest Rated iPhones
+
+![Top 10 Highest Rated iPhones](images/top10_highest_rated_iphones.png)
+
+### Sale Price vs Number of Ratings
+
+![Sale Price vs Ratings](images/saleprice_vs_number_of_ratings.png)
+
+### Discount Percentage vs Number of Ratings
+
+![Discount vs Ratings](images/Discount_percentage_vs_number_of_ratings.png)
 
 ---
 
